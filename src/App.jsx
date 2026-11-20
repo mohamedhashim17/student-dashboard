@@ -32,7 +32,7 @@ function App() {
       <main className="main">
 
         <h1>Student Dashboard</h1>
-        <p>Welcome back, M.YASHWANTH!</p>
+        <p>Welcome back, MOHAMED HASHIM!</p>
 
         {/* Statistics */}
         <div className="stats">
